@@ -1,4 +1,4 @@
-// Copyright by NIK
+// Copyright by sometosome
 
 #ifndef INCLUDE_SP_COUNTER_HPP_
 #define INCLUDE_SP_COUNTER_HPP_

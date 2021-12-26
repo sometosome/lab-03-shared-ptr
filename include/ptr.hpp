@@ -1,4 +1,4 @@
-// Copyright by NIK
+// Copyright by sometosome
 #ifndef INCLUDE_PTR_HPP_
 #define INCLUDE_PTR_HPP_
 
